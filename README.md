@@ -1,0 +1,2 @@
+# notes
+a personal study 
