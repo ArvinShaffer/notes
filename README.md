@@ -8,17 +8,12 @@ a personal study
 - 03ComputationalGeometry
 - 04C++
 - 05vtk
-- 06QT
-- 07makecmake
-- 08git
-- 09latex
-- 10vim
-- 11推荐系统
-- 12数据结构
-- 13操作系统
-- 14编译原理
-- 15计算机网络
-- 16计算机组成原理
+- 06make_cmake_ccmake
+- 07git
+- 08latex
+- 09Docker&k8s
+- 10python
+- 11Algorithm
 
 
 
