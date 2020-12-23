@@ -14,6 +14,7 @@ a personal study
 - 09Docker&k8s
 - 10python
 - 11Algorithm
+- 12Linux
 
 
 
