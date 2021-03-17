@@ -17,6 +17,10 @@ a personal study
 - 12Linux
 - 13FENGSim
 - 14vim
+- 15opencv
+- 16Fenics
+- 17osg
+- 18ue4
 
 
 
